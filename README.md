@@ -1,9 +1,32 @@
-- 👋 Hi, I’m @oliveiraluix
-- 👀 I'm interested in learning and adding to whatever it takes
-- 🌱 I’m currently learning automation of unit tests and API with Java and Cypress
-- 📫 lfelipe3012@gmail.com or 1oliveira.luizfelipe@gmail.com
+- 👋 Olá, me chamo Luiz!
+- 🧑‍💼 Sou QA Pleno. Atualmente, atuo com foco em testes manuais funcionais, testes exploratórios, testes de usabilidade e testes de regressão;
+- 📖 Estou desenvolvendo meus conhecimentos em mais áreas dos testes de software, como automação e testes de API, usando linguagens como JavaScript, Cypress e CodeceptJS.
 
-<!---
-oliveiraluix/oliveiraluix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+💻 HARD SKILLS:
+🔧 Testes de Software Funcionais (Manuais);
+🖥️ Ferramentas: GitHub, Jira, Octane, VS Code, Eclipse, Microsoft Teams, Android Studio;
+📜 Metodologias Ágeis: Scrum e Kanban;
+📐 Metodologias de Teste: Caixa Preta;
+🐞 Identificação e Documentação de Bugs, Defeitos e Inconsistências;
+🔧 Tecnologias: JavaScript, Cypress, Node.js, CodeceptJS (tópico em desenvolvimento);
+🛠️ Frameworks e Ferramentas de Teste: Gherkin, Cypress (básico), JavaScript (básico) Postman (básico), Cucumber, CodeceptJS;
+✅ Criação de Cenários de Testes e Casos de Testes;
+📱 Testes em Plataforma Web;
+🔍 Testes exploratórios, de usabilidade, regressão e funcionais;
+🧾 Revisão e criação de cenários de testes.
+
+
+SOFT SKILLS
+🤝 Trabalho em equipes;
+🗣️ Comunicação eficaz;
+⏱️ Gestão de tempo;
+📊 Perfil data-driven;
+🎯 Foco em resultados;
+🔍 Atenção aos detalhes;
+🧠 Pensamento crítico;
+🚀 Perfil proativo;
+💡 Adaptabilidade;
+🕐 Pontualidade;
+🧩 Resolução de problemas.
+
