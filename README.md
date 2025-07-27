@@ -1,9 +1,10 @@
 - Olá, eu sou o Luiz! 🙋‍♂️
 - Sou QA Pleno. Atualmente, atuo com foco em testes manuais funcionais, testes exploratórios, testes de usabilidade e testes de regressão;
 - Estou desenvolvendo meus conhecimentos em mais áreas dos testes de software, como automação e testes de API, usando linguagens como JavaScript, Cypress e CodeceptJS.
+<br>
+<br>
 
-
-💻 HARD SKILLS:
+HABILIDADES TÉCNICAS (HARD SKILLS):
 - 🔧 Testes de Software Funcionais (Manuais);
 - 🖥️ Ferramentas: GitHub, Jira, Octane, VS Code, Eclipse, Microsoft Teams, Android Studio;
 - 📜 Metodologias Ágeis: Scrum e Kanban;
@@ -15,9 +16,10 @@
 - 📱 Testes em Plataforma Web;
 - 🔍 Testes exploratórios, de usabilidade, regressão e funcionais;
 - 🧾 Revisão e criação de cenários de testes.
+<br>
+<br>
 
-
-SOFT SKILLS
+HABILIDADES PESSOAIS (SOFT SKILLS)
 - 🤝 Trabalho em equipes;
 - 🗣️ Comunicação eficaz;
 - ⏱️ Gestão de tempo;
