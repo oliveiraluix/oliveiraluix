@@ -6,7 +6,7 @@
 
 HABILIDADES TÉCNICAS (HARD SKILLS):
 - 🔧 Testes de Software Funcionais (Manuais);
-- 🖥️ Ferramentas: GitHub, Jira, Octane, VS Code, Eclipse, Microsoft Teams, Android Studio;
+- 🖥️ Ferramentas: GitHub, Jira, Octane, Confluence, VS Code, Eclipse, Microsoft Teams, Android Studio;
 - 📜 Metodologias Ágeis: Scrum e Kanban;
 - 📐 Metodologias de Teste: Caixa Preta;
 - 🐞 Identificação e Documentação de Bugs, Defeitos e Inconsistências;
