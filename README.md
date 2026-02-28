@@ -11,7 +11,7 @@ HABILIDADES TÉCNICAS (HARD SKILLS):
 - 📐 Metodologias de Teste: Caixa Preta;
 - 🐞 Identificação e Documentação de Bugs, Defeitos e Inconsistências;
 - 🔧 Tecnologias: JavaScript, Cypress, Node.js, CodeceptJS (tópico em desenvolvimento);
-- 🛠️ Frameworks e Ferramentas de Teste: Gherkin, Cypress (básico), JavaScript (básico) Postman (básico), Cucumber, CodeceptJS;
+- 🛠️ Frameworks e Ferramentas de Teste: Gherkin, Cypress (básico), JavaScript (básico) Postman (básico), Cucumber, Typescript;
 - ✅ Criação de Cenários de Testes e Casos de Testes;
 - 📱 Testes em Plataforma Web;
 - 🔍 Testes exploratórios, de usabilidade, regressão e funcionais;
